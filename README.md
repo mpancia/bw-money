@@ -2,6 +2,8 @@
 
 ## Quick Start
 
+This uses Node 11. Use `nvm` to get the right version for this.
+
 ```
 npm install
 npm start
